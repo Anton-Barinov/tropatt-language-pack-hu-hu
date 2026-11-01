@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Irányítópult',
+  'ideas' => 'Ideas',
+  'tasks' => 'Feladatok',
+  'day' => 'My day',
+  'week' => 'My hét',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Projektek',
+  'calendar' => 'Naptár',
+  'counterparties' => 'Counterparties',
+  'teams' => 'Csapatok',
+  'knowledge' => 'Tudásbázis',
+  'analytics' => 'Elemzés',
+  'notifications' => 'Értesítések',
+  'admin' => 'Adminisztráció',
+  'intake' => 'Intake',
+  'cycles' => 'Cycles (Sprints)',
+  'project_modules' => 'projekt modulok',
+  'admin_estimates' => 'feladat Estimates',
+  'admin_modules' => 'modulok',
+  'chat' => 'Csevegések',
+  'docs' => 'Documentation',
+  'api' => 'Documentation',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-hu-hu",
+    "full_code": "crm.language-pack-hu-hu",
+    "vendor": "crm",
+    "code": "hu-hu",
+    "title": "Hungarian Language Pack (Magyar)",
+    "native_name": "Magyar",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Teljes magyar lokalizáció a TropaTT CRM-hez.",
+    "signature": "ba3d3717d992ebe6ea03af14b579045b7ae25aa14fb52f5ba8feefd6e375ed0a"
+}

@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency list',
+  'created' => 'Dependency created',
+  'deleted' => 'Dependency deleted',
+  'not_found' => 'Dependency not found',
+  'task_not_found' => 'One of the feladatok was not found',
+  'invalid_type' => 'Invalid dependency típus',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'feladat cannot depend on itself',
+  'different_projects' => 'Dependencies can only be created between feladatok in the same projekt',
+  'empty' => 'No dependencies',
+  'th_type' => 'Típus',
+  'th_task' => 'feladat',
+  'btn_delete' => 'Törlés',
+  'load_error' => 'Failed to load dependencies',
+  'prompt_task_id' => 'feladat ID (public_id)',
+  'task_id_empty' => 'feladat ID cannot be empty',
+  'prompt_dep_type' => 'Dependency típus (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => 'törlés dependency?',
+  'deleted_notify' => 'Dependency deleted',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would létrehozás a cycle between feladatok',
+);

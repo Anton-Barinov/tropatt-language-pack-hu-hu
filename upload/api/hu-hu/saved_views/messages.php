@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Betöltés…',
+  'load_error' => 'betöltés hiba',
+  'empty' => 'No elmentve views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Szerkesztés',
+  'archive' => 'Archive',
+  'applied' => 'View applied:',
+  'apply_error' => 'hiba applying view',
+  'save_as' => 'mentés as új view',
+  'edit_title' => 'szerkesztés view',
+  'title_required' => 'Enter a view név',
+  'update_error' => 'hiba updating view',
+  'create_error' => 'hiba creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Hiba',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'hiba duplicating',
+  'confirm_archive' => 'Archive this view?',
+  'archived' => 'View archived',
+  'archive_error' => 'hiba archiving',
+);

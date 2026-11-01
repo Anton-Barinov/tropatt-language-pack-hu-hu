@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'feladat template list',
+  'task_created' => 'feladat template created',
+  'task_detail' => 'feladat template',
+  'task_updated' => 'feladat template updated',
+  'task_deleted' => 'feladat template deleted',
+  'project_list' => 'projekt template list',
+  'project_created' => 'projekt template created',
+  'project_detail' => 'projekt template',
+  'project_updated' => 'projekt template updated',
+  'project_deleted' => 'projekt template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No feladat templates',
+  'empty_projects' => 'No projekt templates',
+  'load_error_tasks' => 'Failed to load feladat templates',
+  'load_error_projects' => 'Failed to load projekt templates',
+  'btn_delete' => 'Törlés',
+  'created_task_notify' => 'feladat template created',
+  'created_project_notify' => 'projekt template created',
+  'error_create' => 'létrehozás hiba',
+  'confirm_delete_task' => 'törlés feladat template?',
+  'confirm_delete_project' => 'törlés projekt template?',
+  'deleted_task_notify' => 'feladat template deleted',
+  'deleted_project_notify' => 'projekt template deleted',
+  'error_delete' => 'törlés hiba',
+  'task_applied' => 'feladat created from template',
+  'project_applied' => 'projekt created from template',
+);
